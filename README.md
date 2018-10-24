@@ -1,9 +1,9 @@
 # fft_simd
 A simple demo shows how to use the SIMD,*Single Instruction Multiple Data*, to optimize and accelerate the FFT algorithm.
 
-- [x] **Task 1.** Implement standard DFT algorithm with C++. See [task1_solution]()
+- [x] **Task 1.** Implement standard DFT algorithm with C++. See [task1_solution](https://github.com/jagger2048/fft_simd/blob/master/task1_solution.md)
 
-- [x] **Task 2.** Rewrite the DFT with Cooley–Tukey FFT algorithm. See [task2_solution]()
+- [x] **Task 2.** Rewrite the DFT with Cooley–Tukey FFT algorithm. See [task2_solution](https://github.com/jagger2048/fft_simd/blob/master/task2_solution.md)
 
 - [x] **Task 3.** Ues SIMD to accelerate the FFT alogrithm. See blews in this page.
 
