@@ -37,4 +37,4 @@ Ps. The number of dft is the fft_i's size.
 
  The standard DFT algorithm takes a long time to compute the retult and it's inefficient in real application.So we should consider the other faster algorithm , the famous solution is Cooley–Tukey FFT algorithm.
 
-See [Task2: Cooley–Tukey FFT algorithm]().
+See [Task2: Cooley–Tukey FFT algorithm](https://github.com/jagger2048/fft_simd/blob/master/task2_solution.md).
