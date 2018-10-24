@@ -9,11 +9,11 @@ A simple demo shows how to use the SIMD,*Single Instruction Multiple Data*, to o
 
 - [ ] **Task 4.** Make a time consuming contrast among these algorithms.See the table as blews:
 
-  | Algorithm     | Time consum |
-  | ------------- | ----------- |
-  | Standard dft  | 606 ms      |
-  | FFT           | 74 ms       |
-  | FFT with SIMD | ？ ms       |
+  | Algorithm     | Time consum                                     |
+  | ------------- | ----------------------------------------------- |
+  | Standard dft  | 606 ms                                          |
+  | FFT           | 74 ms (out-off-place algorithm) ,7ms (in-place) |
+  | FFT with SIMD | 1.2 ms                                          |
 
 
 To be Completed :D...
