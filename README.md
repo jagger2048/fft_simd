@@ -15,7 +15,6 @@ A simple demo shows how to use the SIMD,*Single Instruction Multiple Data*, to o
   | FFT           | 74 ms (out-off-place algorithm) ,7ms (in-place) |
   | FFT with SIMD | 1.011 ms                                        |
 
-To be Completed :D...
 
 ----------
 
