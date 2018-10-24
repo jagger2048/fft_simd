@@ -49,7 +49,7 @@ With this FFT algorithm,it cost 7ms to compute a 1024 points DFT .Our processor 
 
 In the next section we will use SIMD to accelerate the FFT alogrithm above.
 
-See [Task3: Accelerate the FFT alogrithm]().
+See [Task3: Accelerate the FFT alogrithm](https://github.com/jagger2048/fft_simd/blob/master/README.md).
 
 
 
