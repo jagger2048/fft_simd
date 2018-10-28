@@ -32,12 +32,16 @@ We use SSE2 in this project. SSE2 (Streaming SIMD Extensions 2) is one of the In
 To be familiar with SSE2 instructions,  we use SSE2 to compute the complex multiplication as an exercise.
 
 Complex multiplication can be described as  follows:
+
+
 $$
 if A = a+b*j,B=c+d*j,then,A*B=(ac-bd)+(bc+ad)*j
 $$
+
+
 We use a figure to summary and described the complex multiplication using SSE2:
 
-![complex_mul](https://github.com/jagger2048/fft_simd/complex_mul.png)
+![complex_mul](https://github.com/jagger2048/fft_simd/blob/master/complex_mul.png)
 
 You can find the code in the **complex_mul(double * A, double * B)** function in the project.
 
