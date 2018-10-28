@@ -15,7 +15,6 @@ A simple demo shows how to use the SIMD,*Single Instruction Multiple Data*, to o
   | FFT           | 74 ms (out-off-place algorithm) ,7ms (in-place) |
   | FFT with SIMD | 1.011 ms                                        |
 
-
 ----------
 
 ### **Introduction to SIMD** 
@@ -38,7 +37,7 @@ if A = a+b*j,B=c+d*j,then,A*B=(ac-bd)+(bc+ad)*j
 $$
 We use a figure to summary and described the complex multiplication using SSE2:
 
-*Missing a figure  :D...*
+![complex_mul](https://github.com/jagger2048/fft_simd/complex_mul.png)
 
 You can find the code in the **complex_mul(double * A, double * B)** function in the project.
 
